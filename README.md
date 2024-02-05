@@ -3,6 +3,7 @@
 
 Download results of your batchmates using this quick python script 😎
 
+<br>
 
 ## System Requirements 💻
 
@@ -31,6 +32,7 @@ pip install selenium
 pip install webdriver-manager
 ```
 
+<br>
 
 ## XLSX file with Student Data 👨‍🎓
 
@@ -46,6 +48,7 @@ Keep the Student Data in an XLSX file in the `Databases` directory within the cu
 - Run the `Db_maker.py` file first
 - Then run the `hitk_scraper.py` file
 
+<br>
 
 ## Results 📃
 
