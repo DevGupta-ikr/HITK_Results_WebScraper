@@ -7,7 +7,7 @@ Download results of your batchmates using this quick python script 😎
 
 ## System Requirements 💻
 
-Download the latest version of Chrome WebDriver from https://googlechromelabs.github.io/chrome-for-testing/
+Download the latest version of Chrome WebDriver from https://googlechromelabs.github.io/chrome-for-testing/ and set the path `C:/Windows/chromedriver.exe`
 
 <img width="1920" alt="Download_Chrome_WebDriver" src="https://github.com/DevGupta-ikr/HITK_Results_WebScraper/assets/77541795/c5c27b4d-3fc8-4791-9264-d38605b9d948">
 
